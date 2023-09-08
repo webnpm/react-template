@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-09-08 13:19:37
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-09-08 13:26:38
+ * @LastEditTime: 2023-09-08 15:55:24
  * @FilePath: /my-project/src/App.jsx
  * @Description:
  *
@@ -10,7 +10,6 @@
  */
 import { useState } from "react"
 import "./App.css"
-
 function App() {
 	return (
 		<>
