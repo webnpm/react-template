@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-09-08 13:19:37
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-09-08 15:56:46
+ * @LastEditTime: 2023-09-08 15:59:47
  * @FilePath: /my-project/src/App.jsx
  * @Description:
  *
@@ -14,7 +14,6 @@ function App() {
 	return (
 		<>
 			<h1 className="text-3xl font-bold underline">Hello world!</h1>
-			<>12</>
 			<p>123</p>
 			{/* <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
 				<div className="shrink-0">123</div>
